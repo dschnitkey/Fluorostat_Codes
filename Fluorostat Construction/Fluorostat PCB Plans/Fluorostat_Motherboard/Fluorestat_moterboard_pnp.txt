@@ -1,0 +1,112 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Fluorestat_moterboard
+*Date=19:38:01
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;DIP (Dual Inline) [THT];118.849;-90.92;-90;Bottom;Op Amp
+2;;;97.0188;-69.4192;0;Bottom;Via89
+3;;;131.358;-82.5626;0;Bottom;TXT5
+4;;;132.228;-38.4353;0;Bottom;TXT1
+5;;;131.828;-48.7867;0;Bottom;TXT1
+6;;;131.009;-101.779;0;Bottom;TXT1
+7;4.7k;THT;113.681;-72.4867;0;Bottom;4.7K2
+8;;THT;8.56618;-29.0332;90;Bottom;J395
+9;;TO92 [THT];20.4861;-48.9141;-180;Bottom;NPN
+10;;;130.212;-71.7312;0;Bottom;TXT5
+11;390;THT;30.8711;-33.3317;0;Bottom;390
+12;;THT;136.141;-36.8557;0;Bottom;Driver 2
+13;;THT;109.315;-108.988;-90;Bottom;12V
+14;;DIP (Dual Inline) [THT];106.139;-57.3228;-90;Bottom;Converter
+15;;TO92 [THT];20.2976;-40.4646;180;Bottom;P-ch
+16;;TO92 [THT];20.6541;-18.1908;180;Bottom;NPN
+17;;THT;8.37588;-80.413;0;Bottom;J387
+18;;;29.3499;-106.909;0;Bottom;TXT3
+19;390;THT;30.8807;-43.1705;0;Bottom;1M
+20;;THT;135.949;-99.9987;0;Bottom;Driver 1
+21;;THT;25.5111;-80.253;0;Bottom;J388
+22;4.7k;THT;117.025;-41.4908;0;Bottom;R2
+23;10µF;200 mil [THT, multilayer];122.626;-83.8636;180;Bottom;10u8
+24;390;THT;30.9103;-18.2235;180;Bottom;390
+25;4.7k;THT;110.152;-28.9135;-90;Bottom;4.7K5
+26;10µF;200 mil [THT, multilayer];125.432;-102.641;90;Bottom;10u
+27;390;THT;30.8668;-21.9875;0;Bottom;390
+28;10µF;200 mil [THT, multilayer];126.201;-28.8579;90;Bottom;10u12
+29;;;130.289;-75.4176;0;Bottom;TXT5
+30;;;131.255;-86.015;0;Bottom;TXT5
+31;390;THT;30.8632;-40.44;0;Bottom;100
+32;;THT;8.56618;-31.3615;90;Bottom;J399
+33;;;129.82;-108.925;0;Bottom;Hole107
+34;;THT;13.6775;-35.9016;90;Bottom;J384
+35;;;21.2786;-106.996;0;Bottom;TXT3
+36;;THT;13.6775;-38.2302;90;Bottom;J386
+37;;THT;11.0935;-32.4989;90;Bottom;J391
+38;;TO92 [THT];20.6188;-27.1564;180;Bottom;NPN
+39;4.7k;THT;109.336;-83.945;0;Bottom;4.7K3
+40;47k;THT;128.002;-44.6231;-90;Bottom;47K
+41;;;17.7533;-66.0354;0;Bottom;Via86
+42;;THT;11.0935;-30.1674;90;Bottom;J393
+43;;THT;101.899;-108.894;90;Bottom;5V
+44;;THT;13.6775;-33.6334;90;Bottom;Vial 1
+45;4.7k;THT;114.946;-17.479;0;Bottom;4.7K7
+46;;THT;11.0935;-27.8987;90;Bottom;J394
+47;;;10.8694;-109.329;0;Bottom;Hole109
+48;;;10.8505;-5.65532;0;Bottom;Hole108
+49;10µF;200 mil [THT, multilayer];99.0314;-58.5065;90;Bottom;10u5
+50;;THT;136.216;-51.2654;0;Bottom;Detector
+51;;THT;8.56618;-35.9016;90;Bottom;J397
+52;;THT;8.56618;-38.2302;90;Bottom;J396
+53;10µF;200 mil [THT, multilayer];122.641;-14.0345;180;Bottom;10u13
+54;;;131.359;-79.0834;0;Bottom;TXT5
+55;;THT;11.0935;-37.0362;90;Bottom;J392
+56;390;THT;30.8973;-27.1186;0;Bottom;390
+57;;;131.375;-20.7338;0;Bottom;TXT5
+58;;THT;11.0935;-34.7677;90;Bottom;J390
+59;;;15.4811;-40.4139;0;Bottom;Via87
+60;4.7k;THT;107.298;-92.3311;-90;Bottom;4.7K4
+61;;TO92 [THT];20.7066;-22.2751;180;Bottom;NPN
+62;;;132.019;-34.8048;0;Bottom;TXT5
+63;;;130.114;-9.89251;0;Bottom;TXT5
+64;;;130.305;-17.068;0;Bottom;TXT5
+65;;DIP (Dual Inline) [THT];118.803;-27.6263;-90;Bottom;Op Amp
+66;10µF;200 mil [THT, multilayer];113.798;-58.4204;90;Bottom;10u6
+67;;;129.855;-5.65504;0;Bottom;Hole106
+68;;;130.971;-97.6354;0;Bottom;TXT5
+69;;THT;13.6775;-29.0332;90;Bottom;J389
+70;;THT;136.125;-19.3847;0;Bottom;Sensor 2
+71;390;THT;30.8612;-49.2426;180;Bottom;390
+72;;;4.14253;-89.8135;0;Bottom;Via85
+73;10µF;200 mil [THT, multilayer];107.503;-49.4904;0;Bottom;10u7
+74;;THT;136.187;-77.6313;0;Bottom;Sensor 1
+75;;;131.685;-52.6232;0;Bottom;TXT5
+76;;THT;13.6775;-31.3615;90;Bottom;J385
+77;;;11.0845;-45.9823;0;Bottom;Hole110
+78;;THT;27.2668;-111.154;-90;Bottom;Fans
+79;;;25.2458;-107.022;0;Bottom;TXT3
+80;100µF;100 mil [THT, electrolytic];123.344;-48.3327;0;Bottom;C3
+81;;THT;8.56618;-33.6334;90;Bottom;J398
+82;;;11.0924;-20.9111;0;Bottom;Hole111
+83;;diode-1n4148;10.087;-50.8546;180;Bottom;D68
+84;;;66.0737;-58.6985;-90;Bottom;Arduino Mega1
+85;;TO92 [THT];20.5482;-33.1536;180;Bottom;NPN
+86;;;130.227;-13.3816;0;Bottom;TXT5
+87;;THT;115.87;-108.893;90;Bottom;GND
+88;;;2.09049;-38.256;0;Bottom;Via88
+89;100µF;100 mil [THT, electrolytic];125.828;-65.6389;0;Bottom;C2
+90;;;65.3722;-100.93;0;Bottom;TXT6
+91;;;131.374;-24.213;0;Bottom;TXT5
+92;;;97.0304;-64.3392;0;Bottom;Via90
+93;;;131.271;-27.6655;0;Bottom;TXT5
+94;;diode-1n4148;10.2923;-16.1057;180;Bottom; - Diode +5
+95;;;33.7805;-106.952;0;Bottom;TXT3
+96;;;130.099;-68.242;0;Bottom;TXT5
+97;;DIP (Dual Inline) [THT];120.834;-56.9866;-90;Bottom;Op Amp
